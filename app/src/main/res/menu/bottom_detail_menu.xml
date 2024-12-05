@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_detail"
+        android:icon="@drawable/ic_detail"
+        android:color="@color/aqua_500"
+        android:title="Overview" />
+    <item
+        android:id="@+id/navigation_review"
+        android:icon="@drawable/ic_review"
+        android:color="@color/aqua_500"
+        android:title="Reviews" />
+</menu>

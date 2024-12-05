@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:color="@color/aqua_500"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/ic_explore"
+        android:color="@color/aqua_500"
+        android:title="Explore" />
+    <item
+        android:id="@+id/navigation_bookmark"
+        android:icon="@drawable/ic_bookmark"
+        android:title="Bookmark" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+</menu>

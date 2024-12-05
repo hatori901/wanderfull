@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495578766712",
+    "project_id": "wamdefull",
+    "storage_bucket": "wamdefull.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495578766712:android:70e8c3d6a0a1514e3cfc8d",
+        "android_client_info": {
+          "package_name": "com.wanderfull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495578766712-muqdhq5usqtrsi7f082pl8fsunb4sb4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9JZ464Yg3hLEh7vYhMyQIBUhsQYMckeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495578766712-muqdhq5usqtrsi7f082pl8fsunb4sb4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
